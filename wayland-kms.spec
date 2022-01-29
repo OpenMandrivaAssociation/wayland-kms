@@ -13,6 +13,7 @@ Group: System/Libraries
 BuildRequires: autoconf automake make
 BuildRequires: pkgconfig(wayland-scanner)
 BuildRequires: pkgconfig(libdrm)
+BuildRequires: pkgconfig(egl)
 
 %description
 Wayland module for running on KMS devices
