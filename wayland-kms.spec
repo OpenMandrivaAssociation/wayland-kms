@@ -12,6 +12,7 @@ License: GPL
 Group: System/Libraries
 BuildRequires: autoconf automake make
 BuildRequires: pkgconfig(wayland-scanner)
+BuildRequires: pkgconfig(libdrm)
 
 %description
 Wayland module for running on KMS devices
