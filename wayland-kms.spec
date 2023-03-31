@@ -4,7 +4,7 @@
 
 Name: wayland-kms
 Version: 1.6.0
-Release: 1
+Release: 2
 Source0: https://github.com/renesas-rcar/wayland-kms/archive/refs/heads/rcar-gen3.tar.gz
 Summary: Wayland module for running on KMS devices
 URL: https://github.com/renesas-rcar/wayland-kms
