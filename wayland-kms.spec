@@ -10,6 +10,8 @@ Summary: Wayland module for running on KMS devices
 URL: https://github.com/renesas-rcar/wayland-kms
 License: GPL
 Group: System/Libraries
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
 BuildRequires: autoconf automake make
 BuildRequires: pkgconfig(wayland-scanner)
 BuildRequires: pkgconfig(libdrm)
